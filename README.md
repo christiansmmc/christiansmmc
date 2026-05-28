@@ -1,3 +1,4 @@
+<!-- profile -->
 <h1 align="center">Hi, I'm Christian Sequeira 👋</h1>
 
 <p align="center">
