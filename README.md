@@ -14,6 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=christiansmmc&style=flat-square&color=2F80ED&label=Profile+views" alt="views" />
 </p>
 
+<p align="center">
+  <a href="https://recompstore.com/dev/christiansmmc"><img src="https://recompstore.com/assets/press/verified-dark.svg" alt="Verified developer on RecompStore" /></a>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
